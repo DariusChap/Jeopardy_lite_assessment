@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jeopardy_lite_assessment/static/css/main.d66234cd.chunk.css",
+    "main.js": "/Jeopardy_lite_assessment/static/js/main.ef27ab83.chunk.js",
+    "main.js.map": "/Jeopardy_lite_assessment/static/js/main.ef27ab83.chunk.js.map",
+    "runtime-main.js": "/Jeopardy_lite_assessment/static/js/runtime-main.a186250a.js",
+    "runtime-main.js.map": "/Jeopardy_lite_assessment/static/js/runtime-main.a186250a.js.map",
+    "static/js/2.57147659.chunk.js": "/Jeopardy_lite_assessment/static/js/2.57147659.chunk.js",
+    "static/js/2.57147659.chunk.js.map": "/Jeopardy_lite_assessment/static/js/2.57147659.chunk.js.map",
+    "index.html": "/Jeopardy_lite_assessment/index.html",
+    "precache-manifest.5ee6e99fb2c9b9e1cb79e6600c09886a.js": "/Jeopardy_lite_assessment/precache-manifest.5ee6e99fb2c9b9e1cb79e6600c09886a.js",
+    "service-worker.js": "/Jeopardy_lite_assessment/service-worker.js",
+    "static/css/main.d66234cd.chunk.css.map": "/Jeopardy_lite_assessment/static/css/main.d66234cd.chunk.css.map",
+    "static/js/2.57147659.chunk.js.LICENSE.txt": "/Jeopardy_lite_assessment/static/js/2.57147659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a186250a.js",
+    "static/js/2.57147659.chunk.js",
+    "static/css/main.d66234cd.chunk.css",
+    "static/js/main.ef27ab83.chunk.js"
+  ]
+}
